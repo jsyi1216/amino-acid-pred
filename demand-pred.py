@@ -15,11 +15,26 @@ def request_get(api_url, headers, params):
     
     return df
 
-def getCommodityDataByYear():    
+def getCommodities():
+    url = 'https://apps.fas.usda.gov/PSDOnlineDataServices/api/LookupData/GetCommodities'
+    headers = {'api_key': '64753A3D-5BF0-42D7-86D5-F649302D8C7D'}
+    params = {}
+    commodities = request_get(url, headers, params)
+    
+    return commodities
+
+def getComodityCode(commodityName):
+    commodities = getCommodities()
+    code = commodities[commodities.CommodityName.str.strip().isin([commodityName])].CommodityCode.values[0]
+    
+    return code
+
+def getCommodityDataByYear():
+    code = getComodityCode('Meat, Swine')
     url = 'https://apps.fas.usda.gov/PSDOnlineDataServices/api/CommodityData/GetCommodityDataByYear'
     headers = {'api_key': '64753A3D-5BF0-42D7-86D5-F649302D8C7D'}
     params = {
-            'commodityCode': '0113000',
+            'commodityCode': code,
             'marketYear': '2019'
             }
     df = request_get(url, headers, params)
