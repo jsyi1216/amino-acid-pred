@@ -1,0 +1,929 @@
+AttributeDescription,AttributeId,CalendarYear,CommodityCode,CommodityDescription,CountryCode,CountryName,MarketYear,Month,UnitDescription,UnitId,Value
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,132.0
+Total Imports,57,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,40.0
+Total Supply,86,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,172.0
+Total Exports,88,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,172.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,172.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,172.0
+Balance,198,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(PERCENT)           ,23,6.0
+Import Change,201,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(PERCENT)           ,23,-27.0
+Export Change,202,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(PERCENT)           ,23,-4.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(PERCENT)           ,23,23.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(PEOPLE)            ,41,31427266.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",AO,Angola                        ,2019,10,(KG)                ,14,5.5
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 HEAD)         ,5,7100.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,655.0
+Total Imports,57,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,48.0
+Total Supply,86,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,703.0
+Total Exports,88,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,11.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,692.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,692.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,703.0
+Balance,198,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(1000 MT CWE)       ,7,92.3
+Production Change,204,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(PERCENT)           ,23,5.0
+Import Change,201,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(PERCENT)           ,23,-9.0
+Export Change,202,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(PERCENT)           ,23,38.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(PERCENT)           ,23,4.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(PERCENT)           ,23,7.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(PERCENT)           ,23,2.0
+Population,211,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(PEOPLE)            ,41,45089492.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",AR,Argentina                     ,2019,10,(KG)                ,14,15.3
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 HEAD)         ,5,5150.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,400.0
+Total Imports,57,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,260.0
+Total Supply,86,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,660.0
+Total Exports,88,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,40.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,620.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,620.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,660.0
+Balance,198,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(1000 MT CWE)       ,7,77.7
+Production Change,204,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(PERCENT)           ,23,-6.0
+Import Change,201,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(PERCENT)           ,23,20.0
+Export Change,202,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(PERCENT)           ,23,-15.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(PERCENT)           ,23,5.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(PERCENT)           ,23,42.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(PERCENT)           ,23,10.0
+Population,211,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(PEOPLE)            ,41,23705630.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",AS,Australia                     ,2019,10,(KG)                ,14,26.2
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,0.0
+Total Imports,57,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,7.0
+Total Supply,86,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,7.0
+Total Exports,88,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,7.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,7.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,7.0
+Balance,198,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(PERCENT)           ,23,-13.0
+Export Change,202,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(PERCENT)           ,23,-13.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(PERCENT)           ,23,100.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(PEOPLE)            ,41,335210.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",BF,"Bahamas, The                  ",2019,10,(KG)                ,14,20.9
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,9.0
+Total Imports,57,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,25.0
+Total Supply,86,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,34.0
+Total Exports,88,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,1.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,33.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,33.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,34.0
+Balance,198,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(PERCENT)           ,23,4.0
+Export Change,202,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(PERCENT)           ,23,3.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(PERCENT)           ,23,76.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(PERCENT)           ,23,11.0
+Population,211,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(PEOPLE)            ,41,3843037.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",BK,Bosnia and Herzegovina        ,2019,10,(KG)                ,14,8.6
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 HEAD)         ,5,4600.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,320.0
+Total Imports,57,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,26.0
+Total Supply,86,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,346.0
+Total Exports,88,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,12.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,334.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,334.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,346.0
+Balance,198,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(1000 MT CWE)       ,7,69.6
+Production Change,204,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(PERCENT)           ,23,-7.0
+Import Change,201,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(PERCENT)           ,23,0.0
+Export Change,202,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(PERCENT)           ,23,-14.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(PERCENT)           ,23,-6.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(PERCENT)           ,23,8.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(PERCENT)           ,23,4.0
+Population,211,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(PEOPLE)            ,41,9503591.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",BO,Belarus                       ,2019,10,(KG)                ,14,35.1
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 HEAD)         ,5,42000.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,3975.0
+Total Imports,57,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,2.0
+Total Supply,86,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,3977.0
+Total Exports,88,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,875.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,3102.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,3102.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,3977.0
+Balance,198,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(1000 MT CWE)       ,7,94.6
+Production Change,204,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(PERCENT)           ,23,6.0
+Import Change,201,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(PERCENT)           ,23,0.0
+Export Change,202,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(PERCENT)           ,23,20.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(PERCENT)           ,23,2.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(PERCENT)           ,23,0.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(PERCENT)           ,23,22.0
+Population,211,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(PEOPLE)            ,41,210301591.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",BR,Brazil                        ,2019,10,(KG)                ,14,14.8
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 HEAD)         ,5,21700.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,69.0
+Production,28,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,2000.0
+Total Imports,57,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,250.0
+Total Supply,86,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,2319.0
+Total Exports,88,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,1315.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,939.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,939.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,65.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,2319.0
+Balance,198,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,-4.0
+Weights,210,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(1000 MT CWE)       ,7,92.2
+Production Change,204,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(PERCENT)           ,23,2.0
+Import Change,201,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(PERCENT)           ,23,7.0
+Export Change,202,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(PERCENT)           ,23,-1.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(PERCENT)           ,23,9.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(PERCENT)           ,23,27.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(PERCENT)           ,23,66.0
+Population,211,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(PEOPLE)            ,41,36136376.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",CA,Canada                        ,2019,10,(KG)                ,14,26.0
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,24.0
+Total Imports,57,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,22.0
+Total Supply,86,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,46.0
+Total Exports,88,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,46.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,46.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,46.0
+Balance,198,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(PERCENT)           ,23,5.0
+Export Change,202,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(PERCENT)           ,23,2.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(PERCENT)           ,23,48.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(PEOPLE)            ,41,87265519.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",CG,Congo (Kinshasa)              ,2019,10,(KG)                ,14,0.5
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 HEAD)         ,5,600000.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,46500.0
+Total Imports,57,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,2600.0
+Total Supply,86,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,49100.0
+Total Exports,88,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,130.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,48970.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,48970.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,49100.0
+Balance,198,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(1000 MT CWE)       ,7,77.5
+Production Change,204,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(PERCENT)           ,23,-14.0
+Import Change,201,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(PERCENT)           ,23,67.0
+Export Change,202,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(PERCENT)           ,23,-36.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(PERCENT)           ,23,-12.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(PERCENT)           ,23,5.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(PEOPLE)            ,41,1389618778.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",CH,China                         ,2019,10,(KG)                ,14,35.2
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 HEAD)         ,5,5225.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,545.0
+Total Imports,57,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,130.0
+Total Supply,86,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,675.0
+Total Exports,88,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,240.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,435.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,435.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,675.0
+Balance,198,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(1000 MT CWE)       ,7,104.3
+Production Change,204,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(PERCENT)           ,23,2.0
+Import Change,201,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(PERCENT)           ,23,33.0
+Export Change,202,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(PERCENT)           ,23,20.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(PERCENT)           ,23,1.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(PERCENT)           ,23,30.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(PERCENT)           ,23,44.0
+Population,211,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(PEOPLE)            ,41,18057855.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",CI,Chile                         ,2019,10,(KG)                ,14,24.1
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 HEAD)         ,5,4820.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,418.0
+Total Imports,57,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,155.0
+Total Supply,86,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,573.0
+Total Exports,88,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,573.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,573.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,573.0
+Balance,198,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(1000 MT CWE)       ,7,86.7
+Production Change,204,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(PERCENT)           ,23,9.0
+Import Change,201,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(PERCENT)           ,23,20.0
+Export Change,202,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(PERCENT)           ,23,-100.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(PERCENT)           ,23,12.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(PERCENT)           ,23,27.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(PEOPLE)            ,41,48631464.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",CO,Colombia                      ,2019,10,(KG)                ,14,11.8
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,158.0
+Total Imports,57,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,7.0
+Total Supply,86,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,165.0
+Total Exports,88,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,165.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,165.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,165.0
+Balance,198,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(PERCENT)           ,23,3.0
+Import Change,201,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(PERCENT)           ,23,17.0
+Export Change,202,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(PERCENT)           ,23,4.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(PERCENT)           ,23,4.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(PEOPLE)            ,41,11086996.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",CU,Cuba                          ,2019,10,(KG)                ,14,14.9
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,79.0
+Total Imports,57,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,46.0
+Total Supply,86,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,125.0
+Total Exports,88,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,125.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,125.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,125.0
+Balance,198,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(PERCENT)           ,23,4.0
+Import Change,201,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(PERCENT)           ,23,-18.0
+Export Change,202,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(PERCENT)           ,23,-5.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(PERCENT)           ,23,37.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(PEOPLE)            ,41,10985823.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",DR,Dominican Republic            ,2019,10,(KG)                ,14,11.4
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 HEAD)         ,5,260500.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,24120.0
+Total Imports,57,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,15.0
+Total Supply,86,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,24135.0
+Total Exports,88,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,3450.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,20685.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,20685.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,24135.0
+Balance,198,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(1000 MT CWE)       ,7,92.6
+Production Change,204,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(PERCENT)           ,23,7.0
+Export Change,202,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(PERCENT)           ,23,18.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(PERCENT)           ,23,-2.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(PERCENT)           ,23,0.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(PERCENT)           ,23,14.0
+Population,211,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(PEOPLE)            ,41,518183234.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",E4,European Union                ,2019,10,(KG)                ,14,39.9
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,222.0
+Total Imports,57,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,1.0
+Total Supply,86,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,223.0
+Total Exports,88,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,223.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,223.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,223.0
+CY Imp. from U.S.,83,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,0.0
+CY. Exp. to U.S.,87,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,0.0
+Balance,198,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(PERCENT)           ,23,1.0
+Import Change,201,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(PERCENT)           ,23,0.0
+Export Change,202,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(PERCENT)           ,23,1.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(PERCENT)           ,23,0.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(PEOPLE)            ,41,16703254.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",EC,Ecuador                       ,2019,04,(KG)                ,14,13.4
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,8.0
+Total Imports,57,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,12.0
+Total Supply,86,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,20.0
+Total Exports,88,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,20.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,20.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,20.0
+Balance,198,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(PERCENT)           ,23,9.0
+Export Change,202,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(PERCENT)           ,23,5.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(PERCENT)           ,23,60.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(PEOPLE)            ,41,6202330.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",ES,El Salvador                   ,2019,10,(KG)                ,14,3.2
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,62.0
+Total Imports,57,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,26.0
+Total Supply,86,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,88.0
+Total Exports,88,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,1.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,87.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,87.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,88.0
+Balance,198,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(PERCENT)           ,23,8.0
+Export Change,202,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(PERCENT)           ,23,2.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(PERCENT)           ,23,30.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(PERCENT)           ,23,2.0
+Population,211,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(PEOPLE)            ,41,15998742.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",GT,Guatemala                     ,2019,10,(KG)                ,14,5.4
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,33.0
+Total Imports,57,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,11.0
+Total Supply,86,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,44.0
+Total Exports,88,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,44.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,44.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,44.0
+Balance,198,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(PERCENT)           ,23,0.0
+Export Change,202,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(PERCENT)           ,23,0.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(PERCENT)           ,23,25.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(PEOPLE)            ,41,10928926.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",HA,Haiti                         ,2019,10,(KG)                ,14,4.0
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 HEAD)         ,5,1050.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,77.0
+Total Imports,57,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,350.0
+Total Supply,86,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,427.0
+Total Exports,88,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,427.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,427.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,427.0
+Balance,198,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(1000 MT CWE)       ,7,73.3
+Production Change,204,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(PERCENT)           ,23,-40.0
+Import Change,201,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(PERCENT)           ,23,-17.0
+Export Change,202,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(PERCENT)           ,23,-23.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(PERCENT)           ,23,82.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(PEOPLE)            ,41,7232810.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",HK,Hong Kong                     ,2019,10,(KG)                ,14,59.0
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,10.0
+Total Imports,57,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,43.0
+Total Supply,86,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,53.0
+Total Exports,88,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,53.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,53.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,53.0
+Balance,198,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(PERCENT)           ,23,2.0
+Export Change,202,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(PERCENT)           ,23,2.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(PERCENT)           ,23,81.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(PEOPLE)            ,41,9325005.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",HO,Honduras                      ,2019,10,(KG)                ,14,5.7
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,9.0
+Total Imports,57,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,14.0
+Total Supply,86,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,23.0
+Total Exports,88,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,23.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,23.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,23.0
+Balance,198,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(PERCENT)           ,23,13.0
+Import Change,201,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(PERCENT)           ,23,-22.0
+Export Change,202,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(PERCENT)           ,23,-12.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(PERCENT)           ,23,61.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(PEOPLE)            ,41,25067462.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",IV,Cote d'Ivoire                 ,2019,10,(KG)                ,14,0.9
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 HEAD)         ,5,16425.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,208.0
+Production,28,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,1295.0
+Total Imports,57,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,1510.0
+Total Supply,86,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,3013.0
+Total Exports,88,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,5.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,2790.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,2790.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,218.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,3013.0
+Balance,198,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,10.0
+Weights,210,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(1000 MT CWE)       ,7,78.8
+Production Change,204,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(PERCENT)           ,23,1.0
+Import Change,201,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(PERCENT)           ,23,2.0
+Export Change,202,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(PERCENT)           ,23,25.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(PERCENT)           ,23,1.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(PERCENT)           ,23,54.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(PEOPLE)            ,41,125853035.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",JA,Japan                         ,2019,10,(KG)                ,14,22.2
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 HEAD)         ,5,17800.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,180.0
+Production,28,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,1365.0
+Total Imports,57,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,700.0
+Total Supply,86,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,2245.0
+Total Exports,88,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,1.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,2044.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,2044.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,200.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,2245.0
+Balance,198,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,20.0
+Weights,210,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(1000 MT CWE)       ,7,76.7
+Production Change,204,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(PERCENT)           ,23,3.0
+Import Change,201,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(PERCENT)           ,23,-7.0
+Export Change,202,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(PERCENT)           ,23,2.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(PERCENT)           ,23,34.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(PEOPLE)            ,41,51635813.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",KS,"Korea, South                  ",2019,10,(KG)                ,14,39.6
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,84.0
+Total Imports,57,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,2.0
+Total Supply,86,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,86.0
+Total Exports,88,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,86.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,86.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,86.0
+CY Imp. from U.S.,83,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,0.0
+CY. Exp. to U.S.,87,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,0.0
+Balance,198,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(PERCENT)           ,23,-2.0
+Import Change,201,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(PERCENT)           ,23,0.0
+Export Change,202,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(PERCENT)           ,23,-2.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(PERCENT)           ,23,2.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(PEOPLE)            ,41,18923073.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",KZ,Kazakhstan                    ,2019,04,(KG)                ,14,4.5
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,7.0
+Total Imports,57,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,35.0
+Total Supply,86,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,42.0
+Total Exports,88,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,42.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,42.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,42.0
+Balance,198,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(PERCENT)           ,23,6.0
+Export Change,202,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(PERCENT)           ,23,5.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(PERCENT)           ,23,83.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(PEOPLE)            ,41,610510.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",MC,Macau                         ,2019,10,(KG)                ,14,68.8
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,2.0
+Total Imports,57,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,30.0
+Total Supply,86,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,32.0
+Total Exports,88,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,2.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,30.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,30.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,32.0
+Balance,198,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(PERCENT)           ,23,-6.0
+Export Change,202,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(PERCENT)           ,23,-6.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(PERCENT)           ,23,100.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(PERCENT)           ,23,100.0
+Population,211,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(PEOPLE)            ,41,612107.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",MJ,Montenegro                    ,2019,10,(KG)                ,14,49.0
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,14.0
+Total Imports,57,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,17.0
+Total Supply,86,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,31.0
+Total Exports,88,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,1.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,30.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,30.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,31.0
+Balance,198,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(PERCENT)           ,23,8.0
+Import Change,201,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(PERCENT)           ,23,-11.0
+Export Change,202,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(PERCENT)           ,23,-3.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(PERCENT)           ,23,57.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(PERCENT)           ,23,7.0
+Population,211,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(PEOPLE)            ,41,2110113.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",MK,Macedonia                     ,2019,10,(KG)                ,14,14.2
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 HEAD)         ,5,18300.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,1390.0
+Total Imports,57,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,1225.0
+Total Supply,86,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,2615.0
+Total Exports,88,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,210.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,2405.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,2405.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,2615.0
+Balance,198,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(1000 MT CWE)       ,7,76.0
+Production Change,204,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(PERCENT)           ,23,5.0
+Import Change,201,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(PERCENT)           ,23,3.0
+Export Change,202,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(PERCENT)           ,23,18.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(PERCENT)           ,23,3.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(PERCENT)           ,23,51.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(PERCENT)           ,23,15.0
+Population,211,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(PEOPLE)            ,41,127318112.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",MX,Mexico                        ,2019,10,(KG)                ,14,18.9
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,138.0
+Total Imports,57,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,4.0
+Total Supply,86,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,142.0
+Total Exports,88,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,6.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,136.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,136.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,142.0
+Balance,198,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(PERCENT)           ,23,0.0
+Export Change,202,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(PERCENT)           ,23,20.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(PERCENT)           ,23,-1.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(PERCENT)           ,23,3.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(PERCENT)           ,23,4.0
+Population,211,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(PEOPLE)            ,41,5421399.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",NO,Norway                        ,2019,10,(KG)                ,14,25.1
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 HEAD)         ,5,589.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,41.0
+Total Imports,57,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,68.0
+Total Supply,86,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,109.0
+Total Exports,88,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,1.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,108.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,108.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,109.0
+Balance,198,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(1000 MT CWE)       ,7,69.6
+Production Change,204,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(PERCENT)           ,23,-7.0
+Import Change,201,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(PERCENT)           ,23,3.0
+Export Change,202,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(PERCENT)           ,23,-1.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(PERCENT)           ,23,63.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(PERCENT)           ,23,2.0
+Population,211,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(PEOPLE)            ,41,4580406.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",NZ,New Zealand                   ,2019,10,(KG)                ,14,23.6
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,42.0
+Total Imports,57,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,27.0
+Total Supply,86,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,69.0
+Total Exports,88,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,69.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,69.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,69.0
+Balance,198,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(PERCENT)           ,23,23.0
+Export Change,202,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(PERCENT)           ,23,8.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(PERCENT)           ,23,39.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(PEOPLE)            ,41,3847647.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",PN,Panama                        ,2019,10,(KG)                ,14,17.9
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 HEAD)         ,5,5550.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,323.0
+Total Imports,57,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,35.0
+Total Supply,86,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,358.0
+Total Exports,88,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,18.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,340.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,340.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,358.0
+Balance,198,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(1000 MT CWE)       ,7,58.2
+Production Change,204,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(PERCENT)           ,23,2.0
+Import Change,201,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(PERCENT)           ,23,-20.0
+Export Change,202,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(PERCENT)           ,23,29.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(PERCENT)           ,23,-2.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(PERCENT)           ,23,10.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(PERCENT)           ,23,6.0
+Population,211,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(PEOPLE)            ,41,7045162.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",RB,Serbia                        ,2019,10,(KG)                ,14,48.3
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,1675.0
+Total Imports,57,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,265.0
+Total Supply,86,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,1940.0
+Total Exports,88,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,1.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,1939.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,1939.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,1940.0
+Balance,198,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(PERCENT)           ,23,5.0
+Import Change,201,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(PERCENT)           ,23,-7.0
+Export Change,202,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(PERCENT)           ,23,3.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(PERCENT)           ,23,14.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(PEOPLE)            ,41,107535277.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",RP,Philippines                   ,2019,10,(KG)                ,14,18.0
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 HEAD)         ,5,43400.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,3240.0
+Total Imports,57,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,130.0
+Total Supply,86,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,3370.0
+Total Exports,88,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,60.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,3310.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,3310.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,3370.0
+Balance,198,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(1000 MT CWE)       ,7,74.7
+Production Change,204,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(PERCENT)           ,23,3.0
+Import Change,201,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(PERCENT)           ,23,49.0
+Export Change,202,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(PERCENT)           ,23,33.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(PERCENT)           ,23,4.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(PERCENT)           ,23,4.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(PERCENT)           ,23,2.0
+Population,211,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(PEOPLE)            ,41,141944641.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",RS,Russia                        ,2019,10,(KG)                ,14,23.3
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 HEAD)         ,5,3200.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,260.0
+Total Imports,57,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,38.0
+Total Supply,86,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,298.0
+Total Exports,88,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,17.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,281.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,281.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,298.0
+Balance,198,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(1000 MT CWE)       ,7,81.3
+Production Change,204,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(PERCENT)           ,23,5.0
+Import Change,201,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(PERCENT)           ,23,-16.0
+Export Change,202,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(PERCENT)           ,23,2.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(PERCENT)           ,23,14.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(PERCENT)           ,23,7.0
+Population,211,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(PEOPLE)            ,41,55918443.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",SF,South Africa                  ,2019,10,(KG)                ,14,5.0
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,21.0
+Total Imports,57,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,123.0
+Total Supply,86,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,144.0
+Total Exports,88,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,2.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,142.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,142.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,144.0
+Balance,198,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(PERCENT)           ,23,-2.0
+Export Change,202,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(PERCENT)           ,23,-1.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(PERCENT)           ,23,87.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(PERCENT)           ,23,10.0
+Population,211,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(PEOPLE)            ,41,6102937.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",SN,Singapore                     ,2019,10,(KG)                ,14,23.3
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,830.0
+Total Imports,57,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,107.0
+Total Supply,86,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,937.0
+Total Exports,88,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,2.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,935.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,935.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,937.0
+Balance,198,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(PERCENT)           ,23,0.0
+Import Change,201,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(PERCENT)           ,23,-2.0
+Export Change,202,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(PERCENT)           ,23,0.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(PERCENT)           ,23,11.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(PEOPLE)            ,41,23577456.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",TW,Taiwan                        ,2019,10,(KG)                ,14,39.7
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 HEAD)         ,5,8220.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,720.0
+Total Imports,57,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,30.0
+Total Supply,86,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,750.0
+Total Exports,88,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,1.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,749.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,749.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,750.0
+Balance,198,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(1000 MT CWE)       ,7,87.6
+Production Change,204,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(PERCENT)           ,23,-2.0
+Import Change,201,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(PERCENT)           ,23,-23.0
+Export Change,202,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(PERCENT)           ,23,-50.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(PERCENT)           ,23,-3.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(PERCENT)           ,23,4.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(PEOPLE)            ,41,43964969.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",UP,Ukraine                       ,2019,10,(KG)                ,14,17.0
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 HEAD)         ,5,129637.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,254.0
+Production,28,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,12516.0
+Total Imports,57,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,434.0
+Total Supply,86,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,13204.0
+Total Exports,88,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,2985.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,9951.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,9951.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,268.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,13204.0
+Balance,198,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,14.0
+Weights,210,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(1000 MT CWE)       ,7,96.5
+Production Change,204,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(PERCENT)           ,23,5.0
+Import Change,201,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(PERCENT)           ,23,-8.0
+Export Change,202,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(PERCENT)           ,23,12.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(PERCENT)           ,23,2.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(PERCENT)           ,23,4.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(PERCENT)           ,23,24.0
+Population,211,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(PEOPLE)            ,41,330049592.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",US,United States                 ,2019,10,(KG)                ,14,30.2
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,12.0
+Total Imports,57,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,54.0
+Total Supply,86,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,66.0
+Total Exports,88,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,66.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,66.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,66.0
+Balance,198,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(PERCENT)           ,23,-8.0
+Import Change,201,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(PERCENT)           ,23,8.0
+Export Change,202,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(PERCENT)           ,23,0.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(PERCENT)           ,23,5.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(PERCENT)           ,23,82.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(PERCENT)           ,23,0.0
+Population,211,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(PEOPLE)            ,41,3378471.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",UY,Uruguay                       ,2019,10,(KG)                ,14,19.5
+Slaughter (Reference),116,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 HEAD)         ,5,0.0
+Beginning Stocks,20,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Production,28,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,2400.0
+Total Imports,57,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,50.0
+Total Supply,86,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,2450.0
+Total Exports,88,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,15.0
+Human Dom. Consumption,139,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,2435.0
+"Other Use, Losses",152,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Dom. Consumption,125,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,2435.0
+Ending Stocks,176,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Total Distribution,178,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,2450.0
+Balance,198,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Inventory Balance,199,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Weights,210,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(1000 MT CWE)       ,7,0.0
+Production Change,204,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(PERCENT)           ,23,-15.0
+Import Change,201,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(PERCENT)           ,23,150.0
+Export Change,202,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(PERCENT)           ,23,-57.0
+Consumption Change,203,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(PERCENT)           ,23,-13.0
+Imports Percent Consumption,214,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(PERCENT)           ,23,2.0
+Exports Percent Production,215,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(PERCENT)           ,23,1.0
+Population,211,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(PEOPLE)            ,41,97894734.0
+Per Capita Consumption,212,,0113000,"Meat, Swine                   ",VM,Vietnam                       ,2019,10,(KG)                ,14,24.9

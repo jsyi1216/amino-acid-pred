@@ -1,0 +1,11 @@
+CommodityCode,CommodityDescription,CountryCode,CountryName,AminoAcidCode,AminoAcidname,MarketDate,UnitDescription,UnitId,Value
+113000,Meat/Swine,US,United States,LYS,Lysine,201010,(Ton),15,177543
+113000,Meat/Swine,US,United States,LYS,Lysine,201110,(Ton),15,179865
+113000,Meat/Swine,US,United States,LYS,Lysine,201210,(Ton),15,181124
+113000,Meat/Swine,US,United States,LYS,Lysine,201310,(Ton),15,186420
+113000,Meat/Swine,US,United States,LYS,Lysine,201410,(Ton),15,182450
+113000,Meat/Swine,US,United States,LYS,Lysine,201510,(Ton),15,185040
+113000,Meat/Swine,US,United States,LYS,Lysine,201610,(Ton),15,186450
+113000,Meat/Swine,US,United States,LYS,Lysine,201710,(Ton),15,188760
+113000,Meat/Swine,US,United States,LYS,Lysine,201810,(Ton),15,191080
+113000,Meat/Swine,US,United States,LYS,Lysine,201910,(Ton),15,191190

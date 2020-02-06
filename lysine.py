@@ -34,12 +34,11 @@ def r_squared(y_true, y_pred):
 # hyperparameters
 batch_size = 128
 epochs = 30000
-n_features = 4
 df = pd.read_csv('data/dataset.csv')
-
 y_data = df['y'].values
-#x_data = df.iloc[:,1:].values
+x_data = df.iloc[:,1:].values
 x_data = df[['x1','x9','x10','x11']].values
+n_features = len(x_data[0])
 x_train,x_test,y_train,y_test = train_test_split(x_data,y_data,test_size=0.2,random_state=1)
 x_train,x_val,y_train,y_val = train_test_split(x_train,y_train,test_size=0.2,random_state=1)
 
@@ -73,7 +72,8 @@ y_pred = list(itertools.chain(*model.predict(x_test)))
 y_test
 y_pred
 np.corrcoef(y_pred,y_test)**2
-
+plt.plot(y_test)
+plt.plot(y_pred)
 print('Test loss:', score[0])
 print('Test r squared value:', score[1])
 
@@ -109,3 +109,13 @@ plt.plot(y_train)
 plt.plot(clf.predict(x_train))
 plt.plot(y_test)
 plt.plot(clf.predict(x_test))
+
+
+import seaborn as sns
+pd.scatter_matrix(df, alpha = 0.3, figsize = (14,8), diagonal = 'kde');
+sns.pairplot(df)
+
+f, ax = plt.subplots(figsize=(10, 8))
+corr = df.corr()
+sns.heatmap(corr, mask=np.zeros_like(corr, dtype=np.bool), cmap=sns.diverging_palette(220, 10, as_cmap=True),square=True, ax=ax)
+plt.show()
