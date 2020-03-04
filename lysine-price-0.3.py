@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb 25 13:51:33 2020
+Created on Mon Mar  2 09:39:07 2020
 
 @author: jsyi
 """
@@ -168,3 +168,7 @@ print(np.corrcoef(y_test,te_pred)**2)
 print(mean_absolute_error(y_test, te_pred))
 print(mean_absolute_percentage_error(y_test, te_pred))
 np.mean(te_pred)
+
+
+
+model.predict(x_test)
