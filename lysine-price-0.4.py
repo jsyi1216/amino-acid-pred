@@ -59,6 +59,7 @@ def split_sequence(sequence, n_steps):
     return np.array(X), np.array(y)
 
 df = getDataframe()
+df.to_csv('dataset_200306.csv', index=False)
 df = df[[
     'DAY',
     'LYSINE_PRICE',
@@ -83,10 +84,6 @@ sns.heatmap(df.corr(method ='pearson'), annot=True)
 df = df.set_index('DAY')
 with pd.option_context('display.max_columns', len(df.columns)):
     print(df.describe(include='all'))
-#y_data = df['LYSINE_PRICE'].values
-#x_data = df.iloc[:,1:].values
-#x_data = df[['x1','x9','x10','x11']].values
-
 
 df['LYSINE_PRICE'].plot()
 df['EXPORT_PRICE'].plot()
@@ -99,24 +96,6 @@ np.log1p(df['EXPORT_PRICE']).hist()
 plt.plot(preprocessing.scale(df['LYSINE_PRICE']), '.', color='red', markersize=5)
 plt.plot(preprocessing.scale(df['EXPORT_PRICE']), color='black')
 #fig.savefig('data/lysine-corn.png')
-
-
-#LSTM
-#train_data = df[df.index<'2018-01-01']
-#test_data = df[(df.index<'2020-03-01')&(df.index>='2018-01-01')]
-#y_train = train_data['LYSINE_PRICE'].values
-#x_train = train_data.iloc[:,1:].values
-#y_test = test_data['LYSINE_PRICE'].values
-#x_test = test_data.iloc[:,1:].values
-#x_train.shape
-#x_test.shape
-#y_train.shape
-#y_test.shape
-#df.shape
-#plt.plot(y_train)
-#plt.plot(y_test)
-#plt.plot(x_train)
-#plt.plot(x_test)
 
 
 # define input sequence
@@ -207,3 +186,14 @@ model = model_from_json(loaded_model_json)
 # load weights into new model
 model.load_weights("model/model_20200306.h5")
 print("Loaded model from disk")
+
+
+
+df[(df.index<'2020-01-01')&(df.index>'2018-01-01')]
+X[110].shape
+x_test.shape
+
+x_eval=[]
+x_eval.append(X[110])
+x_eval=np.array(x_eval)
+model.predict(x_eval)

@@ -45,3 +45,4 @@ year = '2019'
 commodityData = getCommodityDataByYear(code, year)
 
 commodityData.to_csv('data/commodity-data.csv', index=False)
+
